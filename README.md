@@ -5,7 +5,7 @@
 $ docker run -d -p 9411:9411 openzipkin/zipkin
 ```
 
-### Architecture (to do)
+### Architecture
 
 ```text
  :: Sleuth with Zepkin ::
